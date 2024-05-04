@@ -1,0 +1,2 @@
+URL = "https://www.google.com/maps/place/Mie+Gacoan+Tangerang+-+Cipondoh/@-6.1876727,106.6604847,17z/data=!4m17!1m8!3m7!1s0x2e69f94f1b474fef:0x7cf44cb3839c017d!2sMie+Gacoan+Tangerang+-+Cipondoh!8m2!3d-6.1875447!4d106.6623408!10e4!16s%2Fg%2F11kbdgnjzd!3m7!1s0x2e69f94f1b474fef:0x7cf44cb3839c017d!8m2!3d-6.1875447!4d106.6623408!9m1!1b1!16s%2Fg%2F11kbdgnjzd?entry=ttu"
+DriverLocation = "./Driver/chromedriver.exe"
