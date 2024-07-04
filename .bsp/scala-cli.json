@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "C:\\Users\\destr\\AppData\\Local\\Coursier\\data\\bin\\.scala-cli.aux.exe",
+    "bsp",
+    "--json-options",
+    "C:\\Users\\destr\\Project\\Streaming\\.scala-build\\ide-options-v2.json",
+    "--json-launcher-options",
+    "C:\\Users\\destr\\Project\\Streaming\\.scala-build\\ide-launcher-options.json",
+    "--envs-file",
+    "C:\\Users\\destr\\Project\\Streaming\\.scala-build\\ide-envs.json",
+    "C:\\Users\\destr\\Project\\Streaming"
+  ],
+  "version": "1.4.0",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
