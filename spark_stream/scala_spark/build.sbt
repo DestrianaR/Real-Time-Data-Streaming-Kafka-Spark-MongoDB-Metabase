@@ -1,29 +1,17 @@
-// Nama proyek
 name := "KafkaToMongoDB"
 
-// Versi proyek
-version := "0.1.0-SNAPSHOT"
+version := "1.0"
 
-// Versi Scala
-scalaVersion := "2.12.15"
+scalaVersion := "2.12.10"
 
-// Dependensi proyek
 libraryDependencies ++= Seq(
+  "org.mongodb.spark" %% "mongo-spark-connector" % "10.3.0",
   "org.apache.spark" %% "spark-core" % "3.5.1",
   "org.apache.spark" %% "spark-sql" % "3.5.1",
   "org.apache.spark" %% "spark-streaming" % "3.5.1",
-  "org.apache.spark" %% "spark-streaming-kafka-0-10" % "3.5.1",
-  "org.mongodb.spark" %% "mongo-spark-connector" % "10.3.0",
-  "org.apache.kafka" % "kafka-clients" % "3.4.0"
+  "org.apache.spark" %% "spark-sql-kafka-0-10" % "3.5.1"
 )
 
-// Repositori
-resolvers ++= Seq(
-  "Confluent" at "https://packages.confluent.io/maven/",
-  "MongoDB" at "https://oss.sonatype.org/content/repositories/releases/"
-)
-
-// Plugin sbt-assembly untuk membuat jar yang bisa dijalankan
 addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "1.0.0")
 
 // Konfigurasi assembly untuk menangani file duplikat
@@ -38,3 +26,16 @@ assemblyMergeStrategy in assembly := {
     }
   case _ => MergeStrategy.first
 }
+
+// libraryDependencies ++= Seq(
+//   "org.apache.spark" %% "spark-core" % "3.3.0",
+//   "org.apache.spark" %% "spark-sql" % "3.3.0",
+//   "org.apache.spark" %% "spark-streaming" % "3.3.0",
+//   "org.apache.spark" %% "spark-streaming-kafka-0-10" % "3.3.0",
+//   "org.mongodb.spark" %% "mongo-spark-connector" % "10.3.0",
+//   "org.apache.kafka" % "kafka-clients" % "2.8.0",
+//   "org.mongodb" % "mongodb-driver-sync" % "4.2.3",
+//   "org.mongodb" % "bson" % "4.2.3",
+//   "org.mongodb" % "mongodb-driver-core" % "4.2.3",
+//   "org.mongodb.scala" %% "mongo-scala-driver" % "4.9.0"
+// )

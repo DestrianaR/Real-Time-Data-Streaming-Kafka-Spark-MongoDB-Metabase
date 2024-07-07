@@ -1,24 +1,28 @@
-# Gunakan gambar dasar dari Spark
-FROM bitnami/spark:latest
+# Gunakan gambar dasar dari openjdk
+FROM openjdk:8
+
+FROM openjdk:8
 
 USER root
 
-# Install sbt
-RUN mkdir -p /var/lib/apt/lists/partial && \
-    apt-get update && \
-    apt-get install -y curl gnupg && \
-    echo "deb https://repo.scala-sbt.org/scalasbt/debian all main" | tee /etc/apt/sources.list.d/sbt.list && \
-    echo "deb https://repo.scala-sbt.org/scalasbt/debian /" | tee /etc/apt/sources.list.d/sbt_old.list && \
-    curl -sL "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x99E82A75642AC823" | apt-key add && \
-    apt-get update && \
-    apt-get install -y sbt
-
 # Salin file aplikasi ke dalam container
-WORKDIR /app
+WORKDIR /usr/src/app
+
 COPY . .
 
-# Jalankan sbt untuk membangun aplikasi
-RUN sbt clean assembly
+# Install sbt
+RUN echo "deb https://repo.scala-sbt.org/scalasbt/debian all main" | tee /etc/apt/sources.list.d/sbt.list
+RUN echo "deb https://repo.scala-sbt.org/scalasbt/debian /" | tee /etc/apt/sources.list.d/sbt_old.list
+RUN curl -sL "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2EE0EA64E40A89B84B2DF73499E82A75642AC823" | apt-key add
+RUN apt-get update  && apt-get install sbt -y
 
+# Salin file aplikasi ke dalam container
+WORKDIR /usr/src/app
+COPY . .
+
+# Berikan izin eksekusi untuk entrypoint.sh
+RUN chmod +x entrypoint.sh
+
+ENTRYPOINT [ "./entrypoint.sh" ]
 
 

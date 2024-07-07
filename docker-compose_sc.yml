@@ -55,7 +55,7 @@ services:
       - my_network
 
   spark-master:
-    build: ./spark_stream/scala_spark
+    image: bitnami/spark:latest
     container_name: spark-master
     environment:
       - SPARK_MODE=master
@@ -63,13 +63,16 @@ services:
       - SPARK_RPC_ENCRYPTION_ENABLED=no
       - SPARK_LOCAL_STORAGE_ENCRYPTION_ENABLED=no
       - SPARK_SSL_ENABLED=no
+    volumes:
+      - ./jars_dir:/opt/bitnami/spark/ivy:z
+      - ./checkpoints:/tmp/spark-checkpoints
     ports:
       - "8080:8080"
     networks:
       - my_network
   
   spark-worker1:
-    build: ./spark_stream/scala_spark
+    image: bitnami/spark:latest
     container_name: spark-worker1
     environment:
       - SPARK_MODE=worker
@@ -86,7 +89,7 @@ services:
       - my_network
   
   spark-worker2:
-    build: ./spark_stream/scala_spark
+    image: bitnami/spark:latest
     container_name: spark-worker2
     environment:
       - SPARK_MODE=worker
@@ -102,6 +105,14 @@ services:
     networks:
       - my_network
 
+  spark-streaming-scala:
+    container_name: spark-streaming-scala
+    build: ./spark_stream/scala_spark
+    volumes:
+      - ./jars_dir:/usr/src/app/target/scala-2.12/
+    networks:
+      - my_network
+
   # postgres:
   #   image: postgres:latest
   #   container_name: metabase-postgres
@@ -114,7 +125,7 @@ services:
   #   networks:
   #     - my_network
 
-  mongo:
+  mongodb:
     image: mongo:latest
     container_name: mongodb
     ports:
@@ -161,3 +172,4 @@ volumes:
 
 networks:
   my_network:
+    driver: bridge

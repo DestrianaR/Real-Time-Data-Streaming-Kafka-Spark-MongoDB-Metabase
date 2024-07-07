@@ -1600,3 +1600,853 @@ WARNING: Unmatched cancel notification for request id 762
 2024.07.04 06:11:10 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
 Jul 04, 2024 8:06:40 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+Jul 04, 2024 8:36:03 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.04 09:35:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:29 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 09:35:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:33 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 09:35:34 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 09:35:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:34 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 09:35:43 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:43 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:43 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:43 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 09:35:44 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 09:35:43 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:43 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 09:35:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:50 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:50 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:50 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 09:35:50 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 09:35:50 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 09:35:50 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:06:54 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\destr\Project\Streaming' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@2410c0b3]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@1885a05d]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@2410c0b3]
+2024.07.04 11:06:58 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+Jul 04, 2024 11:06:59 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2024.07.04 11:06:59 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:00 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:04 INFO  Running List(C:\Users\destr\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\destr\Project\Streaming)
+2024.07.04 11:07:04 INFO  Attempting to connect to the build server...
+2024.07.04 11:07:04 INFO  Running BSP server List(C:\Users\destr\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\destr\Project\Streaming\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\destr\Project\Streaming\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\destr\Project\Streaming\.scala-build\ide-envs.json, C:\Users\destr\Project\Streaming)
+2024.07.04 11:07:05 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\destr\Project\Streaming\.metals\bsp.trace.json or C:\Users\destr\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.04 11:07:08 INFO  time: Connected to build server in 3.16s
+2024.07.04 11:07:08 INFO  Connected to Build server: scala-cli v1.4.0
+2024.07.04 11:07:08 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 11:07:08 INFO  time: compiled Streaming_070607f617 in 0.62s
+2024.07.04 11:07:08 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 11:07:09 INFO  time: compiled Streaming_070607f617 in 0.59s
+2024.07.04 11:07:10 INFO  time: indexed workspace in 2.64s
+2024.07.04 11:07:11 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:07:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:11 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:33 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:33 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:07:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:33 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:35 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:36 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:37 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:07:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:37 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:07:41 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 04, 2024 11:07:48 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 48
+2024.07.04 11:07:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:48 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 11:07:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 04, 2024 11:07:55 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 57
+2024.07.04 11:07:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:07:56 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:01 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:01 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:01 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:01 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:05 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:06 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:06 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:08:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:05 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:10 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:14 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:14 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:08:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:14 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:24 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:25 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:08:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:36 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:36 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:08:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:36 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:38 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:38 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:08:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:38 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:50 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:50 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:50 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:51 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:51 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:08:51 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:51 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:53 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:53 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:53 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:54 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:55 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:08:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:08:55 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:04 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:04 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:04 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:06 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:06 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:07 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:07 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:08 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:08 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:08 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:08 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:08 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:08 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:08 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:09 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:10 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:10 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:10 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:11 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:14 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:16 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:17 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:18 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:21 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:21 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:21 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:22 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:23 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:09:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:23 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:32 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:09:33 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:09:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:09:33 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:10:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:10:13 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:10:23 INFO  Cancelling compilation on scala-cli server
+2024.07.04 11:10:23 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 11:10:23 INFO  time: compiled Streaming_070607f617 in 0.51s
+2024.07.04 11:10:24 INFO  time: Imported build in 0.56s
+2024.07.04 11:10:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:10:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:10:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:10:25 INFO  time: indexed workspace in 1.14s
+2024.07.04 11:10:25 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 11:10:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:10:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:11:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:11:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:11:55 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 11:29:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:29:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 11:29:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:29:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 11:29:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:29:34 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 11:29:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 11:29:36 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 12:02:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:02:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 12:02:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:02:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:02:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:24:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:24:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:24:43 INFO  Cancelling compilation on scala-cli server
+2024.07.04 12:24:43 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:24:43 WARN  Invalid text document uri received from build server: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/src/main/consumer.scala
+2024.07.04 12:24:43 INFO  time: compiled Streaming_070607f617 in 0.47s
+2024.07.04 12:24:43 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:24:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:24:43 INFO  time: compiled Streaming_070607f617 in 0.37s
+2024.07.04 12:24:44 INFO  time: Imported build in 0.9s
+2024.07.04 12:24:44 INFO  time: Imported build in 0.9s
+2024.07.04 12:24:43 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:24:44 INFO  time: compiled Streaming_070607f617 in 0.68s
+2024.07.04 12:24:45 INFO  time: indexed workspace in 1.35s
+2024.07.04 12:24:45 INFO  time: indexed workspace in 1.38s
+2024.07.04 12:24:45 INFO  Cancelling compilation on scala-cli server
+2024.07.04 12:24:44 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:24:45 INFO  time: compiled Streaming_070607f617 in 0.23s
+2024.07.04 12:24:45 INFO  time: Imported build in 0.26s
+2024.07.04 12:24:46 INFO  time: indexed workspace in 0.75s
+2024.07.04 12:24:45 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:24:47 INFO  time: compiled Streaming_070607f617 in 0.22s
+2024.07.04 12:25:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\scala\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:25:39 INFO  Cancelling compilation on scala-cli server
+2024.07.04 12:25:39 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:25:39 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\scala\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:25:39 WARN  Invalid text document uri received from build server: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/src/main/KafkaSparkStreaming.scala
+2024.07.04 12:25:39 INFO  time: compiled Streaming_070607f617 in 0.34s
+2024.07.04 12:25:39 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:25:39 INFO  time: Imported build in 0.38s
+2024.07.04 12:25:39 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\scala\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 12:25:39 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:25:40 INFO  time: compiled Streaming_070607f617 in 0.43s
+2024.07.04 12:25:40 INFO  time: indexed workspace in 0.98s
+2024.07.04 12:25:40 INFO  Cancelling compilation on scala-cli server
+2024.07.04 12:25:40 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:25:40 INFO  time: compiled Streaming_070607f617 in 0.25s
+2024.07.04 12:25:40 INFO  time: Imported build in 0.29s
+2024.07.04 12:25:41 INFO  time: indexed workspace in 0.79s
+2024.07.04 12:25:41 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 12:25:41 INFO  time: compiled Streaming_070607f617 in 0.22s
+Jul 04, 2024 12:27:53 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+Jul 04, 2024 12:30:41 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.07.04 13:48:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:48:36 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:48:36 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:15 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:15 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:18 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:20 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:20 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:20 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:20 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:21 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 13:49:21 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:21 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:22 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:26 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 13:49:26 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:26 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:28 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:29 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:29 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:30 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 13:49:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:49:30 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 13:49:46 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:50:44 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:50:47 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:50:47 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 13:56:51 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:00:15 INFO  no build target found for c:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:00:42 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 14:00:42 INFO  time: compiled Streaming_070607f617 in 0.36s
+2024.07.04 14:07:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:07:54 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 14:07:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:07:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:07:54 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 04, 2024 2:07:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 652
+2024.07.04 14:07:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:07:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:07:56 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 14:07:57 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:07:57 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 14:08:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:10:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:10:25 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 14:10:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:10:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:10:30 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 14:10:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:10:31 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 14:10:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:10:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 14:24:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 14:24:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:05:17 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 18:05:17 INFO  time: compiled Streaming_070607f617 in 0.35s
+2024.07.04 18:32:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:10 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:11 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:12 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt
+2024.07.04 18:32:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:27 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:27 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:34 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:44 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:44 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:44 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:44 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:45 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt
+2024.07.04 18:32:45 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:45 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:53 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:53 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:32:59 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:59 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:59 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:32:59 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+Jul 04, 2024 6:34:31 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 841
+2024.07.04 18:34:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:34:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:37 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.04 18:34:39 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:55 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:34:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:55 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:56 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:34:57 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 18:34:57 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:34:57 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:35:05 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:35:08 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.04 18:35:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 18:35:07 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 18:59:13 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 18:59:13 INFO  time: compiled Streaming_070607f617 in 0.33s
+2024.07.04 19:11:17 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 19:11:17 INFO  time: compiled Streaming_070607f617 in 0.3s
+2024.07.04 19:24:10 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 19:24:10 INFO  time: compiled Streaming_070607f617 in 0.77s
+2024.07.04 19:24:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 19:24:16 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.04 19:24:17 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 19:24:17 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.04 20:11:52 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.04 20:11:52 INFO  time: compiled Streaming_070607f617 in 0.37s
+Jul 05, 2024 12:31:10 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1181
+Jul 05, 2024 12:31:12 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1182
+Jul 05, 2024 12:31:13 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1190
+Jul 05, 2024 12:31:16 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1191
+2024.07.05 02:36:45 INFO  Shutting down server
+2024.07.05 02:36:45 INFO  shutting down Metals
+2024.07.05 02:36:45 INFO  Shut down connection with build server.
+2024.07.05 02:36:45 INFO  Exiting server
+2024.07.05 04:03:55 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\destr\Project\Streaming' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@48ea651b]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@43c1452a]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@48ea651b]
+2024.07.05 04:03:55 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.05 04:03:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\scala\KafkaSparkStreaming.scala. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 04:03:57 INFO  Attempting to connect to the build server...
+2024.07.05 04:03:57 INFO  Running BSP server List(C:\Users\destr\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\destr\Project\Streaming\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\destr\Project\Streaming\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\destr\Project\Streaming\.scala-build\ide-envs.json, C:\Users\destr\Project\Streaming)
+2024.07.05 04:03:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\destr\Project\Streaming\.metals\bsp.trace.json or C:\Users\destr\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.05 04:04:00 INFO  time: Connected to build server in 3.84s
+2024.07.05 04:04:00 INFO  Connected to Build server: scala-cli v1.4.0
+2024.07.05 04:04:01 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 04:04:01 INFO  time: compiled Streaming_070607f617 in 0.27s
+2024.07.05 04:04:01 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 04:04:01 INFO  time: compiled Streaming_070607f617 in 0.21s
+2024.07.05 04:04:03 INFO  time: indexed workspace in 2.1s
+2024.07.05 04:04:03 INFO  Cancelling compilation on scala-cli server
+2024.07.05 04:04:03 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 04:04:03 INFO  time: compiled Streaming_070607f617 in 0.25s
+2024.07.05 04:04:03 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 04:04:03 INFO  time: Imported build in 0.29s
+2024.07.05 04:04:04 INFO  time: indexed workspace in 0.81s
+2024.07.05 04:04:04 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 04:04:04 INFO  time: compiled Streaming_070607f617 in 0.32s
+2024.07.05 04:11:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 04:11:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 04:11:42 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+Jul 05, 2024 4:11:53 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 41
+2024.07.05 04:31:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 04:31:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 04:31:09 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 05:20:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:20:30 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.05 05:20:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:20:34 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 05:20:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:20:38 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.05 05:20:43 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:20:43 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/project/plugins.sbt
+2024.07.05 05:20:45 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:20:45 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 05:20:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:20:49 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 05:25:26 INFO  no build target found for c:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:25:26 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:25:31 INFO  no build target found for c:\Users\destr\Project\Streaming\spark_stream\scala_spark\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:25:31 INFO  no build target found for C:\Users\destr\Project\Streaming\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:26:53 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:26:53 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/build.sbt
+2024.07.05 05:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\project\plugins.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:29:21 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:29:21 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/build.sbt
+2024.07.05 05:29:54 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:29:56 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:29:57 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:29:57 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:09 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:13 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:15 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:15 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:18 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:26 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:26 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:28 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:30:44 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 05:32:23 INFO  no build target found for C:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:36:47 INFO  no build target found for c:\Users\destr\Project\Streaming\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:36:47 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:02 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:02 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:37:04 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:04 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:37:06 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:06 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:07 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:40 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:40 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:47 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:48 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:37:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:48 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:48 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:37:49 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:50 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 06:37:50 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:50 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:37:52 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:52 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:52 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:56 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:57 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:57 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:57 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:37:59 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:00 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:00 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:03 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:09 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:38:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:10 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 06:38:10 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:10 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:38:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:38:12 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 06:38:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:38:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:14 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:38:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:14 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:15 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:15 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 06:38:16 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 06:38:16 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 06:38:16 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:07:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:07:24 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:08:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:11 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:09:12 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 07:09:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:13 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:09:13 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:09:13 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 07:28:09 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:09 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:19 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:19 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:19 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:19 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:19 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:20 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 07:28:20 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:20 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:25 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:28 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:28 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 07:28:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:28 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:31 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:32 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:32 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:33 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 07:28:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:33 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:34 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:35 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:37 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 07:28:37 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 07:28:37 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 07:28:37 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 08:26:28 ERROR Failed to tokenize input for semantic tokens for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\src\main\scala\KafkaSparkStreaming.scala
+scala.meta.tokenizers.TokenizeException: <input>:48: error: unclosed character literal
+      .options("spark.mongodb.input.uri", '')
+                                          ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:32)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchSingleQuote$1(LegacyScanner.scala:391)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:395)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:201)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:912)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:23)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:960)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:322)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:22)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:13)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:545)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:833)
+
+Jul 05, 2024 8:30:23 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 662
+2024.07.05 08:31:05 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 08:31:05 INFO  time: compiled Streaming_070607f617 in 0.48s
+2024.07.05 08:44:54 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 08:44:54 INFO  time: compiled Streaming_070607f617 in 0.29s
+2024.07.05 08:48:28 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/src/main/scala/KafkaSparkStreaming.scala
+Jul 05, 2024 8:48:31 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didChange",
+  "params": {
+    "textDocument": {
+      "version": 63,
+      "uri": "file:///c%3A/Users/destr/Project/Streaming/spark_stream/scala_spark/src/main/scala/KafkaSparkStreaming.scala"
+    },
+    "contentChanges": [
+      {
+        "text": "\r\n// import org.apache.spark.sql.SparkSession\r\n// import org.apache.spark.sql.functions._\r\n// import org.apache.spark.sql.types._\r\n\r\n// object KafkaSparkStreaming {\r\n//   def main(args: Array[String]) \u003d {\r\n//     // Initialize Spark session\r\n//     val spark \u003d SparkSession.builder\r\n//       .appName(\"KafkaSparkStreaming\")\r\n//       .config(\"spark.mongodb.output.uri\", \"mongodb://root:example@mongodb:27017/db.transaction?authSource\u003ddb\")\r\n//       .getOrCreate()\r\n\r\n//     // Read from Kafka\r\n//     val df \u003d spark\r\n//       .readStream\r\n//       .format(\"kafka\")\r\n//       .option(\"kafka.bootstrap.servers\", \"kafka1:9092,kafka2:9093\") \r\n//       .option(\"subscribe\", \"financial_transactions\")\r\n//       .option(\"startingOffsets\", \"earliest\")\r\n//       .load()\r\n\r\n//     // Define schema\r\n//     val schema \u003d StructType(Array(\r\n//       StructField(\"transactionId\", StringType, true),\r\n//       StructField(\"productId\", StringType, true),\r\n//       StructField(\"productName\", StringType, true),\r\n//       StructField(\"productCategory\", StringType, true),\r\n//       StructField(\"productPrice\", DoubleType, true),\r\n//       StructField(\"productQuantity\", IntegerType, true),\r\n//       StructField(\"productBrand\", StringType, true),\r\n//       StructField(\"currency\", StringType, true),\r\n//       StructField(\"customerId\", StringType, true),\r\n//       StructField(\"transactionDate\", TimestampType, true),\r\n//       StructField(\"paymentMethod\", StringType, true)\r\n//     ))\r\n\r\n//     // Parse JSON and select required fields\r\n//     val parsed_df \u003d df.select(from_json(col(\"value\").cast(\"string\"), schema).alias(\"value\"))\r\n//       .select(\"value.*\")\r\n\r\n//     // Add a new column \u0027revenue\u0027 which is productPrice * productQuantity\r\n//     val enriched_df \u003d parsed_df.withColumn(\"revenue\", col(\"productPrice\") * col(\"productQuantity\"))\r\n\r\n//     // Write stream to MongoDB\r\n//     val query \u003d enriched_df.writeStream\r\n//       .format(\"mongodb\")\r\n//       .outputMode(\"append\")\r\n//       .option(\"checkpointLocation\", \"/tmp/spark-checkpoints\")  // Specify the checkpoint location\r\n//       .option(\"database\", \"db\")\r\n//       .option(\"collection\", \"transaction\")\r\n//       .start()\r\n//       .awaitTermination()\r\n//   }\r\n// }\r\n"
+      }
+    ]
+  }
+}
+java.lang.IllegalArgumentException: -1 is not a valid offset, allowed [0..2222]
+	at scala.meta.internal.inputs.InternalInput.offsetToLine(InternalInput.scala:54)
+	at scala.meta.internal.inputs.InternalInput.offsetToLine$(InternalInput.scala:48)
+	at scala.meta.inputs.Input$VirtualFile.offsetToLine(Input.scala:86)
+	at scala.meta.inputs.Position$Range.startLine$lzycompute(Position.scala:39)
+	at scala.meta.inputs.Position$Range.startLine(Position.scala:39)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionMetaPosition.toLsp(ScalametaCommonEnrichments.scala:77)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.$anonfun$toRevised$8(TokenEditDistance.scala:310)
+	at scala.Option.flatMap(Option.scala:283)
+	at scala.meta.internal.parsing.TokenEditDistance$Diff.toRevised(TokenEditDistance.scala:241)
+	at scala.meta.internal.metals.Diagnostics.toFreshDiagnostic(Diagnostics.scala:283)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2(Diagnostics.scala:239)
+	at scala.meta.internal.metals.Diagnostics.$anonfun$publishDiagnostics$2$adapted(Diagnostics.scala:238)
+	at scala.collection.IterableOnceOps.foreach(IterableOnce.scala:619)
+	at scala.collection.IterableOnceOps.foreach$(IterableOnce.scala:617)
+	at scala.collection.AbstractIterable.foreach(Iterable.scala:935)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:238)
+	at scala.meta.internal.metals.Diagnostics.publishDiagnostics(Diagnostics.scala:203)
+	at scala.meta.internal.metals.Diagnostics.didChange(Diagnostics.scala:138)
+	at scala.meta.internal.metals.MetalsLspService.didChange(MetalsLspService.scala:870)
+	at scala.meta.internal.metals.ProjectMetalsLspService.didChange(ProjectMetalsLspService.scala:242)
+	at scala.meta.internal.metals.WorkspaceLspService.didChange(WorkspaceLspService.scala:404)
+	at scala.meta.metals.lsp.DelegatingScalaService.didChange(DelegatingScalaService.scala:50)
+	at jdk.internal.reflect.GeneratedMethodAccessor13.invoke(Unknown Source)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$recursiveFindRpcMethods$0(GenericEndpoint.java:65)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:160)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:231)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:185)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:114)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+
+2024.07.05 08:48:31 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/src/main/scala/KafkaSparkStreaming.scala
+2024.07.05 08:48:45 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 08:48:45 INFO  time: compiled Streaming_070607f617 in 0.24s
+2024.07.05 08:57:32 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.05 08:57:32 INFO  time: compiled Streaming_070607f617 in 0.34s
+Jul 05, 2024 9:17:11 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 982
+2024.07.05 09:17:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 09:17:21 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:23 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:24 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:26 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:29 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:30 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:33 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:38 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:39 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:39 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:39 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:40 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:17:42 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 09:21:12 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.05 09:21:12 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.05 09:21:12 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.05 12:43:17 INFO  Shutting down server
+2024.07.05 12:43:17 INFO  shutting down Metals
+2024.07.05 12:43:17 INFO  Shut down connection with build server.
+2024.07.05 12:43:17 INFO  Exiting server
+2024.07.07 07:51:27 INFO  Started: Metals version 1.3.2 in folders 'C:\Users\destr\Project\Streaming' for client Visual Studio Code 1.91.0.
+SLF4J(W): Class path contains multiple SLF4J providers.
+SLF4J(W): Found provider [scribe.slf4j.ScribeServiceProvider@10b060c1]
+SLF4J(W): Found provider [ch.qos.logback.classic.spi.LogbackServiceProvider@71cdaf93]
+SLF4J(W): See https://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J(I): Actual provider is of type [scribe.slf4j.ScribeServiceProvider@10b060c1]
+2024.07.07 07:51:27 WARN  Flyway upgrade recommended: H2 2.2.224 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.2.220.
+2024.07.07 07:51:28 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 07:51:29 INFO  Attempting to connect to the build server...
+2024.07.07 07:51:29 INFO  Running BSP server List(C:\Users\destr\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe, bsp, --json-options, C:\Users\destr\Project\Streaming\.scala-build\ide-options-v2.json, --json-launcher-options, C:\Users\destr\Project\Streaming\.scala-build\ide-launcher-options.json, --envs-file, C:\Users\destr\Project\Streaming\.scala-build\ide-envs.json, C:\Users\destr\Project\Streaming)
+2024.07.07 07:51:29 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\destr\Project\Streaming\.metals\bsp.trace.json or C:\Users\destr\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2024.07.07 07:51:30 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.07 07:51:32 INFO  time: Connected to build server in 3.38s
+2024.07.07 07:51:32 INFO  Connected to Build server: scala-cli v1.4.0
+2024.07.07 07:51:32 INFO  time: Imported build in 0.13s
+2024.07.07 07:51:33 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.07 07:51:40 INFO  time: compiled Streaming_070607f617 in 6.75s
+2024.07.07 07:51:40 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.07 07:51:40 INFO  time: indexed workspace in 8.15s
+2024.07.07 07:51:40 WARN  no build target for: C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt
+2024.07.07 07:51:40 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 07:51:40 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 07:51:40 WARN  Could not find semantic tokens for: file:///C:/Users/destr/Project/Streaming/spark_stream/scala_spark/build.sbt
+2024.07.07 07:51:43 INFO  time: compiled Streaming_070607f617 in 2.81s
+2024.07.07 07:51:51 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 07:51:51 INFO  no build target found for C:\Users\destr\Project\Streaming\spark_stream\scala_spark\build.sbt. Using presentation compiler with project's scala-library version: 3.3.3
+2024.07.07 07:51:57 INFO  Cancelling compilation on scala-cli server
+2024.07.07 07:51:57 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.07 07:51:57 INFO  time: compiled Streaming_070607f617 in 0.65s
+2024.07.07 07:51:57 INFO  time: Imported build in 0.7s
+2024.07.07 07:51:58 INFO  time: indexed workspace in 0.96s
+2024.07.07 07:51:59 INFO  compiling streaming_070607f617 (1 scala source)
+2024.07.07 07:51:59 INFO  time: compiled Streaming_070607f617 in 0.78s
+2024.07.07 13:56:19 INFO  Shutting down server
+2024.07.07 13:56:19 INFO  shutting down Metals
+2024.07.07 13:56:19 INFO  Shut down connection with build server.
+2024.07.07 13:56:19 INFO  Exiting server
