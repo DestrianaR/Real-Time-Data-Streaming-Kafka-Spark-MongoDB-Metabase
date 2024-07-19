@@ -12,6 +12,6 @@ COPY requirements.txt /app/requirements.txt
 RUN pip3 install -r /app/requirements.txt
 
 # Copy application code
-COPY . /app
+COPY KafkaSparkStreaming.py /app/KafkaSparkStreaming.py
 
 WORKDIR /app

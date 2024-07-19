@@ -15,8 +15,8 @@ object KafkaSparkStreaming {
     val df = spark
       .readStream
       .format("kafka")
-      .option("kafka.bootstrap.servers", "kafka1:9092,kafka2:9093") 
-      .option("subscribe", "financial_transactions")
+      .option("kafka.bootstrap.servers", "broker1:9092,broker2:9093") 
+      .option("subscribe", "financialtransactions")
       .option("startingOffsets", "earliest")
       .load()
 

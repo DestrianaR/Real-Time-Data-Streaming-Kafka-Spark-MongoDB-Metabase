@@ -35,7 +35,7 @@ def delivery_report(err, msg):
         print(f"Message delivered to {msg.topic} [{msg.partition()}]")
 
 def main():
-    topic = 'financial_transactions'
+    topic = 'financialtransactions'
     producer = SerializingProducer({
         'bootstrap.servers': 'localhost:29092,localhost:29093'
     })
@@ -44,7 +44,7 @@ def main():
     start_time = end_time - timedelta(days=7)
     
     curr_time = datetime.now()
-    run_duration = timedelta(seconds=900)  # 30 minutes
+    run_duration = timedelta(seconds=3600)  
     stop_time = curr_time + run_duration
 
     while datetime.now() < stop_time:

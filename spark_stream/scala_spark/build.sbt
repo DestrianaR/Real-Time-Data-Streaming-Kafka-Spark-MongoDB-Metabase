@@ -26,16 +26,3 @@ assemblyMergeStrategy in assembly := {
     }
   case _ => MergeStrategy.first
 }
-
-// libraryDependencies ++= Seq(
-//   "org.apache.spark" %% "spark-core" % "3.3.0",
-//   "org.apache.spark" %% "spark-sql" % "3.3.0",
-//   "org.apache.spark" %% "spark-streaming" % "3.3.0",
-//   "org.apache.spark" %% "spark-streaming-kafka-0-10" % "3.3.0",
-//   "org.mongodb.spark" %% "mongo-spark-connector" % "10.3.0",
-//   "org.apache.kafka" % "kafka-clients" % "2.8.0",
-//   "org.mongodb" % "mongodb-driver-sync" % "4.2.3",
-//   "org.mongodb" % "bson" % "4.2.3",
-//   "org.mongodb" % "mongodb-driver-core" % "4.2.3",
-//   "org.mongodb.scala" %% "mongo-scala-driver" % "4.9.0"
-// )
