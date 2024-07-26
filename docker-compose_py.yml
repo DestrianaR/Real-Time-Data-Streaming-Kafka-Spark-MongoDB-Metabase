@@ -244,3 +244,4 @@ volumes:
 
 networks:
   my_network:
+    driver: bridge

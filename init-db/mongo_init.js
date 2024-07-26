@@ -1,4 +1,4 @@
-// Buat pengguna
+// Create Initialize user
 db.createUser({
   user: "root",
   pwd: "example",

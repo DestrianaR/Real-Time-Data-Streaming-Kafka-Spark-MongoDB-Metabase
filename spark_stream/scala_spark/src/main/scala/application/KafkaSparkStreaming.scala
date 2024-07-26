@@ -20,7 +20,7 @@ object KafkaSparkStreaming {
       .option("startingOffsets", "earliest")
       .load()
 
-    // Define schema
+    // Define the schema for the incoming JSON data
     val schema = StructType(Array(
       StructField("transactionId", StringType, true),
       StructField("productId", StringType, true),
@@ -52,7 +52,7 @@ object KafkaSparkStreaming {
       col("value.paymentMethod").alias("paymentMethod"),
     ).withColumn("revenue", col("productPrice") * col("productQuantity"))
 
-    // Write stream to MongoDB
+    // Write the stream data to MongoDB
     val query = message.writeStream
       .format("mongodb")
       .outputMode("append")

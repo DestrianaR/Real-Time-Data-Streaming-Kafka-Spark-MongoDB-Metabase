@@ -4,10 +4,13 @@ import time
 
 from faker import Faker
 from confluent_kafka import SerializingProducer
+from confluent_kafka.serialization import StringSerializer, JSONSerializer
 from datetime import datetime, timedelta
 
+# Initialize the Faker library
 fake = Faker()
 
+# Function to generate a random sales transaction
 def generate_sales_transactions(start_time, end_time):
     user = fake.simple_profile()
     
@@ -28,6 +31,7 @@ def generate_sales_transactions(start_time, end_time):
         "paymentMethod": random.choice(['credit_card', 'debit_card', 'online_transfer'])
         }
 
+# Callback function to report the delivery status of a message
 def delivery_report(err, msg):
     if err is not None:
         print(f'Message delivery failed: {err}')
@@ -37,9 +41,12 @@ def delivery_report(err, msg):
 def main():
     topic = 'financialtransactions'
     producer = SerializingProducer({
-        'bootstrap.servers': 'localhost:29092,localhost:29093'
+        'bootstrap.servers': 'localhost:29092,localhost:29093',
+        'key.serializer': StringSerializer('utf_8'),  # Use StringSerializer for keys
+        'value.serializer': JSONSerializer()  # Use JSONSerializer for values
     })
 
+    # Define the time range for generating transactions
     end_time = datetime.now()
     start_time = end_time - timedelta(days=7)
     
@@ -49,9 +56,11 @@ def main():
 
     while datetime.now() < stop_time:
         try:
+            # Generate a random sales transaction
             transaction = generate_sales_transactions(start_time, end_time)
             print(transaction)
 
+            # Produce the transaction message to the Kafka topic
             producer.produce(topic,
                              key=transaction['transactionId'],
                              value=json.dumps(transaction),
@@ -66,6 +75,9 @@ def main():
             time.sleep(1)
         except Exception as e:
             print(e)
+
+    # Flush producer to ensure all messages are sent
+    producer.flush()
 
 if __name__ == "__main__":
     main()
